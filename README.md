@@ -24,6 +24,6 @@ README.md
 
 | Date       | Problem | Topic | Code |
 |------------|---------|-------|------|
-| 2025-08-25 | Area of Max Diagonal (LC-XXXX) | Geometry / Arrays | [08-25_LC-3000_area-of-max-diagonal.py](2025/08-25_LC-3000_area-of-max-diagonal.py) |
+| 2025-08-25 | Area of Max Diagonal (LC-3000) | Geometry / Arrays | [08-25_LC-3000_area-of-max-diagonal.py](2025/08-25_LC-3000_area-of-max-diagonal.py) |
 
 ---
