@@ -29,5 +29,6 @@ README.md
 | 2025-08-27 | Sort Matrix by Diagonals (LC-3446)          | Bucketing / Sorting | [08-27_LC-3446_sort-matrix-by-diagonals.py](2025/08-27_LC-3446_sort-matrix-by-diagonals.py)                   |
 | 2025-08-28 | Alice and Bob Playing Flower Game (LC-3021) | Math / Parity       | [08-28_LC-3021_alice-and-bob-playing-flower-game.py](2025/08-28_LC-3021_alice-and-bob-playing-flower-game.py) |
 | 2025-08-29 | Valid Sudoku (LC-36)                        | Hashing / Sets      | [08-29_LC-36_valid-sudoku.py](2025/08-29_LC-36_valid-sudoku.py)                                               |
+| 2025-08-30 | Sudoku Solver (LC-37)                       | Backtracking / MRV  | [08-30_LC-37_sudoku-solver.py](2025/08-30_LC-37_sudoku-solver.py)                                             |
 
 ---
