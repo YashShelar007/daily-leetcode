@@ -32,5 +32,7 @@ README.md
 | 2025-08-30 | Sudoku Solver (LC-37)                               | Backtracking / MRV     | [08-30_LC-37_sudoku-solver.py](2025/08-30_LC-37_sudoku-solver.py)                                                     |
 | 2025-08-31 | Maximum Average Pass Ratio (LC-1792)                | Greedy / Heap          | [08-31_LC-1792_maximum-average-pass-ratio.py](2025/08-31_LC-1792_maximum-average-pass-ratio.py)                       |
 | 2025-09-01 | Find the Number of Ways to Place People I (LC-3025) | Geometry / Brute Force | [09-01_LC-3025_find-number-of-ways-to-place-people-i.py](2025/09-01_LC-3025_find-number-of-ways-to-place-people-i.py) |
+| 2025-09-02 | Find the Number of Ways to Place People II (LC-3027) | Coord Compression / 2D Prefix | [09-02_LC-3027_find-number-of-ways-to-place-people-ii.py](2025/09-02_LC-3027_find-number-of-ways-to-place-people-ii.py) |
+
 
 ---
