@@ -5,6 +5,14 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ---
 
+## 🔥 Current Streak
+
+**10 days** (Aug 25, 2025 → Sep 3, 2025)  
+
+Keeping the streak alive with daily LeetCode + GitHub commits!
+
+---
+
 ## 📂 Directory Structure
 
 ```
