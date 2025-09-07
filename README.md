@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**12 days** (Aug 25, 2025 → Sep 5, 2025)
+**13 days** (Aug 25, 2025 → Sep 6, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
