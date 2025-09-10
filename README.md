@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**15 days** (Aug 25, 2025 → Sep 8, 2025)
+**16 days** (Aug 25, 2025 → Sep 9, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -46,5 +46,6 @@ README.md
 | 2025-09-05 | Minimum Operations to Make Array Elements Zero (LC-3495)     | Math / Prefix Blocks          | [09-05_LC-3495_min-ops-make-array-zero.py](2025/09-05_LC-3495_min-ops-make-array-zero.py)                                               |
 | 2025-09-07 | Convert Integer to the Sum of Two No-Zero Integers (LC-1317) | Simulation / String Check     | [09-07_LC-1317_convert-integer-to-sum-of-two-no-zero-integers.py](2025/09-07_LC-1317_convert-integer-to-sum-of-two-no-zero-integers.py) |
 | 2025-09-08 | Number of People Aware of a Secret (LC-2327)                 | DP / Sliding Window           | [09-08_LC-2327_number-of-people-aware-of-a-secret.py](2025/09-08_LC-2327_number-of-people-aware-of-a-secret.py)                         |
+| 2025-09-09 | Minimum Number of People to Teach (LC-1733)                  | Greedy / Hashing              | [09-09_LC-1733_minimum-number-of-people-to-teach.py](2025/09-09_LC-1733_minimum-number-of-people-to-teach.py)                           |
 
 ---
