@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**17 days** (Aug 25, 2025 → Sep 10, 2025)
+**18 days** (Aug 25, 2025 → Sep 11, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -47,6 +47,7 @@ README.md
 | 2025-09-07 | Convert Integer to the Sum of Two No-Zero Integers (LC-1317) | Simulation / String Check     | [09-07_LC-1317_convert-integer-to-sum-of-two-no-zero-integers.py](2025/09-07_LC-1317_convert-integer-to-sum-of-two-no-zero-integers.py) |
 | 2025-09-08 | Number of People Aware of a Secret (LC-2327)                 | DP / Sliding Window           | [09-08_LC-2327_number-of-people-aware-of-a-secret.py](2025/09-08_LC-2327_number-of-people-aware-of-a-secret.py)                         |
 | 2025-09-09 | Minimum Number of People to Teach (LC-1733)                  | Greedy / Hashing              | [09-09_LC-1733_minimum-number-of-people-to-teach.py](2025/09-09_LC-1733_minimum-number-of-people-to-teach.py)                           |
+| 2025-09-10 | Sort Vowels in a String (LC-2785)                            | Strings / Two-Pass            | [09-10_LC-2785_sort-vowels-in-a-string.py](2025/09-10_LC-2785_sort-vowels-in-a-string.py)                                               |
 | 2025-09-10 | Sort Vowels in a String (LC-2785)                            | Strings / Two-Pass            | [09-10_LC-2785_sort-vowels-in-a-string.py](2025/09-10_LC-2785_sort-vowels-in-a-string.py)                                               |
 
 ---
