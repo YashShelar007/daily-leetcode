@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**18 days** (Aug 25, 2025 → Sep 11, 2025)
+**19 days** (Aug 25, 2025 → Sep 12, 2025) 
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -49,5 +49,6 @@ README.md
 | 2025-09-09 | Minimum Number of People to Teach (LC-1733)                  | Greedy / Hashing              | [09-09_LC-1733_minimum-number-of-people-to-teach.py](2025/09-09_LC-1733_minimum-number-of-people-to-teach.py)                           |
 | 2025-09-10 | Sort Vowels in a String (LC-2785)                            | Strings / Two-Pass            | [09-10_LC-2785_sort-vowels-in-a-string.py](2025/09-10_LC-2785_sort-vowels-in-a-string.py)                                               |
 | 2025-09-10 | Sort Vowels in a String (LC-2785)                            | Strings / Two-Pass            | [09-10_LC-2785_sort-vowels-in-a-string.py](2025/09-10_LC-2785_sort-vowels-in-a-string.py)                                               |
+| 2025-09-12 | Find Most Frequent Vowel and Consonant (LC-3541)             | Hashing / Counting            | [09-12_LC-3541_find-most-frequent-vowel-and-consonant.py](2025/09-12_LC-3541_find-most-frequent-vowel-and-consonant.py)                 |
 
 ---
