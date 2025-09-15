@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**20 days** (Aug 25, 2025 → Sep 13, 2025)
+**21 days** (Aug 25, 2025 → Sep 14, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -51,5 +51,6 @@ README.md
 | 2025-09-10 | Sort Vowels in a String (LC-2785)                            | Strings / Two-Pass            | [09-10_LC-2785_sort-vowels-in-a-string.py](2025/09-10_LC-2785_sort-vowels-in-a-string.py)                                               |
 | 2025-09-12 | Find Most Frequent Vowel and Consonant (LC-3541)             | Hashing / Counting            | [09-12_LC-3541_find-most-frequent-vowel-and-consonant.py](2025/09-12_LC-3541_find-most-frequent-vowel-and-consonant.py)                 |
 | 2025-09-13 | Vowel Spellchecker (LC-966)                                  | Hashing / String              | [09-13_LC-966_vowel-spellchecker.py](2025/09-13_LC-966_vowel-spellchecker.py)                                                           |
+| 2025-09-14 | Maximum Number of Words You Can Type (LC-1935)               | String / Simulation           | [09-14_LC-1935_maximum-number-of-words-you-can-type.py](2025/09-14_LC-1935_maximum-number-of-words-you-can-type.py)                     |
 
 ---
