@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**21 days** (Aug 25, 2025 → Sep 14, 2025)
+**22 days** (Aug 25, 2025 → Sep 15, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -52,5 +52,6 @@ README.md
 | 2025-09-12 | Find Most Frequent Vowel and Consonant (LC-3541)             | Hashing / Counting            | [09-12_LC-3541_find-most-frequent-vowel-and-consonant.py](2025/09-12_LC-3541_find-most-frequent-vowel-and-consonant.py)                 |
 | 2025-09-13 | Vowel Spellchecker (LC-966)                                  | Hashing / String              | [09-13_LC-966_vowel-spellchecker.py](2025/09-13_LC-966_vowel-spellchecker.py)                                                           |
 | 2025-09-14 | Maximum Number of Words You Can Type (LC-1935)               | String / Simulation           | [09-14_LC-1935_maximum-number-of-words-you-can-type.py](2025/09-14_LC-1935_maximum-number-of-words-you-can-type.py)                     |
+| 2025-09-15 | Replace Non-Coprime Numbers in Array (LC-2197)               | Stack / Math (GCD/LCM)        | [09-15_LC-2197_replace-non-coprime-numbers-in-array.py](2025/09-15_LC-2197_replace-non-coprime-numbers-in-array.py)                     |
 
 ---
