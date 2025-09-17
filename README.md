@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**22 days** (Aug 25, 2025 → Sep 15, 2025)
+**23 days** (Aug 25, 2025 → Sep 16, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -53,5 +53,6 @@ README.md
 | 2025-09-13 | Vowel Spellchecker (LC-966)                                  | Hashing / String              | [09-13_LC-966_vowel-spellchecker.py](2025/09-13_LC-966_vowel-spellchecker.py)                                                           |
 | 2025-09-14 | Maximum Number of Words You Can Type (LC-1935)               | String / Simulation           | [09-14_LC-1935_maximum-number-of-words-you-can-type.py](2025/09-14_LC-1935_maximum-number-of-words-you-can-type.py)                     |
 | 2025-09-15 | Replace Non-Coprime Numbers in Array (LC-2197)               | Stack / Math (GCD/LCM)        | [09-15_LC-2197_replace-non-coprime-numbers-in-array.py](2025/09-15_LC-2197_replace-non-coprime-numbers-in-array.py)                     |
+| 2025-09-16 | Design a Food Rating System (LC-2353)                        | Heaps / Hash Maps             | [09-16_LC-2353_design-a-food-rating-system.py](2025/09-16_LC-2353_design-a-food-rating-system.py)                                       |
 
 ---
