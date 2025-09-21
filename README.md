@@ -7,7 +7,7 @@ Each problem includes a **clean, commented solution** with **time and space comp
 
 ## 🔥 Current Streak
 
-**26 days** (Aug 25, 2025 → Sep 19, 2025)
+**27 days** (Aug 25, 2025 → Sep 20, 2025)
 
 Keeping the streak alive with daily LeetCode + GitHub commits!
 
@@ -57,5 +57,6 @@ README.md
 | 2025-09-17 | Design Task Manager (LC-3408)                                | Heap / Lazy Deletion / Design   | [09-17_LC-3408_design-task-manager.py](2025/09-17_LC-3408_design-task-manager.py)                                                       |
 | 2025-09-18 | Design Spreadsheet (LC-3484)                                 | Simulation / Parsing            | [09-18_LC-3484_design-spreadsheet.py](2025/09-18_LC-3484_design-spreadsheet.py)                                                         |
 | 2025-09-19 | Implement Router (LC-3508)                                   | Deque / Hashing / Binary Search | [09-19_LC-3508_implement-router.py](2025/09-19_LC-3508_implement-router.py)                                                             |
+| 2025-09-20 | Design Movie Renting System (LC-1912)                        | Heaps / Lazy Deletion           | [09-20_LC-1912_design-movie-renting-system.py](2025/09-20_LC-1912_design-movie-renting-system.py)                                       |
 
 ---
